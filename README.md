@@ -1,5 +1,5 @@
 # RuntimeDroid
-This is code and data set repository for _RuntimeDroid_ -- Restarting-Free Runtime Change Handling for Android Apps.
+This is code and dataset repository for _RuntimeDroid_ -- Restarting-Free Runtime Change Handling for Android Apps.
 Source code will be avaible soon ...
 
 # Publication
@@ -20,7 +20,13 @@ Source code will be avaible soon ...
   keywords = {Runtime Configuration Change, Android, Event Handling},
 }
 ```
+### Slides
+#### Download MobiSys'18 Slides [here](https://github.com/ufarooq/RuntimeDroid/blob/master/MobiSys18Talk.pptx)
 
+### Datasets
 #### Corpus-L is available [here](https://htmlpreview.github.io/?https://github.com/ufarooq/RuntimeDroid/blob/master/CorpusL.htm)
 
-#### Download MobiSys'18 Slides [here](https://github.com/ufarooq/RuntimeDroid/blob/master/MobiSys18Talk.pptx)
+## Contact
+[Umar Farooq](http://www.cs.ucr.edu/~ufaro001/) 
+
+All Copyright Reserved.
