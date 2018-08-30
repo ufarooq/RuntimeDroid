@@ -3,7 +3,7 @@ This is code and data set repository for RuntimeDroid- A Restarting-Free Runtime
 Source code will be avaible soon ...
 
 # Publication
-[1] RuntimeDroid: Restarting-Free Runtime Change Handling for Android Apps (MobiSys'2018)  :trophy: _Best Paper Runner-up Award_ [PDF](http://www.cs.ucr.edu/~ufaro001/docs/papers/mobisys18.pdf)
+[PDF](http://www.cs.ucr.edu/~ufaro001/docs/papers/mobisys18.pdf)RuntimeDroid: Restarting-Free Runtime Change Handling for Android Apps (MobiSys'2018)  :trophy: _Best Paper Runner-up Award_ 
 ```
 @inproceedings{RuntimeDroid,
   author    = {Farooq, Umar and Zhao, Zhijia},
